@@ -1,0 +1,12 @@
+Keras==2.2.0
+numpy==1.16.3
+connected_components_3d==3.2.0
+nilearn==0.3.0
+matplotlib==3.0.3
+nibabel==3.2.0
+opencv_contrib_python==4.5.1.48
+tensorflow==1.14.0
+pandas==0.24.2
+keras_contrib==2.0.8
+tables==3.5.1
+SimpleITK==2.0.2

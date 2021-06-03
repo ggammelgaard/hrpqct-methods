@@ -1,0 +1,13 @@
+*.asv
+*.DCM
+*.rar
+
+*.nii.gz
+
+*/debug_states/*
+*/results/*
+*/logs/*
+
+*/output/debug_states/*
+*/output/results/*
+*/output/logs/*

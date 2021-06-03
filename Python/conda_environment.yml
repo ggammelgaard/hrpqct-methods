@@ -1,0 +1,13 @@
+name: 3dunet_36
+channels:
+  - defaults
+dependencies:
+  - python=3.6
+  - ipykernel
+  - pytables
+  - snappy
+  - keras=2.2.0
+  - tensorflow-gpu=1.10.0
+  - scipy=1.2.1
+  - requests
+
